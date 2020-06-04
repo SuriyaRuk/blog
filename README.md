@@ -1,5 +1,6 @@
 # build to page
 ng build --prod --output-path docs --base-href blog
+ng build --prod --output-path docs //fix 404
 
 # Blog
 
